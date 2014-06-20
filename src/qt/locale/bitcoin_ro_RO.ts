@@ -2228,8 +2228,8 @@ Address: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 35569 or testnet: 45569)</source>
-        <translation>Lista a conectiunile in &lt;port&gt; (initial:  35569 sau testnet: 45569)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 9569 or testnet: 19569)</source>
+        <translation>Lista a conectiunile in &lt;port&gt; (initial:  9569 sau testnet: 19569)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2263,7 +2263,7 @@ Address: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 35568 or testnet: 45568)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9568 or testnet: 19568)</source>
         <translation type="unfinished"/>
     </message>
     <message>
